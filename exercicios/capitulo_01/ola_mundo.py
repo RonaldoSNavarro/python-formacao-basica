@@ -1,0 +1,1 @@
+print("Olá, Mundo!") # Imprime na tela a frade "Olá, mundo!"
